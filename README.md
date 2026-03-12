@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=C++%20To-Do%20List%20Application&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=To%20Do%20List%20in%20C%2B%2B&fontSize=40&fontColor=ffffff"/>
 </p>
 
 <p align="center">
