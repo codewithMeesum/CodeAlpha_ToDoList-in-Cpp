@@ -117,6 +117,11 @@ g++ main.cpp -o todo
 ---
 
 
+### 🛠️ Languages and Tools
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+</p>
+
 # 🌐 Connect With Me
 
 <p align="center">
@@ -140,27 +145,6 @@ g++ main.cpp -o todo
 </p>
 
 ---
-
-### 🛠️ Languages and Tools
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-</p>
-
-### 🌐 Connect with Me  
-<p align="left">
-<a href="https://instagram.com/mesum_mukhtar" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.leetcode.com/c2ktwf5gnt" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-<a href="mailto:mesummukhtar3@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/mesummukhtar/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-</p>
 
 
 # 👨‍💻 Author
